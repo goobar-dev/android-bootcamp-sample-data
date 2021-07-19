@@ -1,9 +1,16 @@
-{
-	"topics": [{
-		"title": "foo",
-		"content": "goo"
-	}, {
-		"title": "zoo",
-		"content": "goo"
-	}]
-}
+[{
+	"title": "Android 5.0",
+	"content": "Android 5.0 had the nickname Lollipop.  It also signaled the advent of Material Design."
+}, {
+	"title": "Kotlin First",
+	"content": "In 2019, Google announced a 'Kotlin First' approach to modern Android development"
+}, {
+	"title": "Android Jetpack",
+	"content": "Android Jetpack is a collection of tools and libraries from Google designed to make Android development easier"
+}, {
+	"title": "Community Support",
+	"content": "Android has a very strong developer community behind it."
+}, {
+	"title": "Jetpack Compose",
+	"content": "Jetpack Compose is a new UI toolkit for Android.  It is build with Kotlin and resembles other declarative UI frameworks such as React or Flutter."
+}]
